@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+# thumbnails / exports
+thumbs.db
+*.tmp
+# editor files
+.vscode/
+*.swp
+# build / generated
+/dist/
+/build/
+# local image edits (optional)
+*.xcf
+*.psd
